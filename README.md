@@ -1,9 +1,59 @@
-## Hi there 👋
-Hi there, I'm Shyamsundar 👋, a Cloud Infrastructure Operations Engineer with experience in AWS, Kubernetes, Linux, and DevOps. I have a strong background in cloud operations, system administration, and infrastructure monitoring.<br><br>🔹 Skills & Expertise:<br><br>Cloud Platforms: AWS, OpenStack<br><br>Infrastructure as Code: Terraform, Ansible<br><br>Containerization & Orchestration: Docker, Kubernetes<br><br>Scripting & Automation: Bash, Python, PowerShell<br><br>Monitoring & Logging: Splunk, Prometheus, Grafana<br><br>Networking & Security: VPC, IAM, Load Balancers
+<h1 align="center">Hi 👋, I'm Shyamsundar</h1>
+<h3 align="center">🚀 Cloud Engineer | DevOps Enthusiast | Automation Geek</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyamsundar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shyamsundar-l-60514b211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamsundarlknv9@gmail.com) 
+<img align="right" alt="Cloud Engineer" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+---
+
+### 🌟 **About Me**
+🔹 **Passionate Cloud Engineer** who thrives in the world of DevOps, automation, and cloud computing.  
+🔹 I believe in **"Infrastructure as Code"**, automating everything from deployments to security policies.  
+🔹 **Problem-Solving Mindset** – If something takes too long, I’ll find a way to automate it!  
+🔹 **Tech Explorer** – Always learning new tools, frameworks, and best practices to stay ahead in the cloud industry.  
+
+🚀 **My Motto:** *"Work smarter, automate faster, and innovate better!"*  
+
+---
+
+### 🛠 **Tech Stack**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
+
+---
+
+### 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shyamsundar&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🌍 **Connect With Me**
+<p align="left">
+  <a href="https://www.linkedin.com/in/shyamsundar-l-60514b211" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shyam123lknv@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/shyamsundar">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
