@@ -38,13 +38,6 @@
 
 ---
 
-### 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyamsundar&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🌍 **Connect With Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/shyamsundar-l-60514b211" target="_blank">
